@@ -1,0 +1,6 @@
+INFO: 2021/03/08 10:46:38 logomulti.go:27: Test
+INFO: 2021/03/08 10:46:38 logomulti.go:23: End of Program
+INFO: 2021/03/08 10:47:27 logomulti.go:27: Test
+INFO: 2021/03/08 10:47:27 logomulti.go:23: End of Program
+2021/03/08 10:50:34 Test
+2021/03/08 10:50:34 End of Program

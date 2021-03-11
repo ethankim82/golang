@@ -1,0 +1,2 @@
+INFO: 2021/03/08 10:49:11 logfile.go:27: Test
+INFO: 2021/03/08 10:49:11 logfile.go:23: End of Program
