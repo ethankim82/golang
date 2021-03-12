@@ -37,6 +37,7 @@ func main() {
 }
 
 func test() {
+	initOpMap()
 	o := calculate("+", 2, 3)
 	if o != 5 {
 		fmt.Printf("Test Failed expected %d outpupt %d", 5, o)
